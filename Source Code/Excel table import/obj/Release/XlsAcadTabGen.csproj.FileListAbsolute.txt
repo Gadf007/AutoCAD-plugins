@@ -10,3 +10,12 @@ D:\ForSync_SW\SoftwareDev\XlsAcadTabGen_Lib\bin\Release\XlsAcadTabGen_Lib.dll
 D:\ForSync_SW\SoftwareDev\XlsAcadTabGen_Lib\bin\Release\XlsAcadTabGen_Lib.pdb
 D:\ForSync_SW\SoftwareDev\XlsAcadTabGen_Lib\obj\Release\XlsAcadTabGen_Lib.dll
 D:\ForSync_SW\SoftwareDev\XlsAcadTabGen_Lib\obj\Release\XlsAcadTabGen_Lib.pdb
+C:\Work\ForSync_SW_Git\Excel table import\XlsAcadTabGen_Lib.dll
+C:\Work\ForSync_SW_Git\Excel table import\XlsAcadTabGen_Lib.pdb
+C:\Work\ForSync_SW_Git\Source Code\Excel table import\obj\Release\XlsAcadTabGen.csproj.AssemblyReference.cache
+C:\Work\ForSync_SW_Git\Source Code\Excel table import\obj\Release\XlsAcadTabGen_Lib.XlsAcadTabGenForm.resources
+C:\Work\ForSync_SW_Git\Source Code\Excel table import\obj\Release\XlsAcadTabGen.csproj.GenerateResource.cache
+C:\Work\ForSync_SW_Git\Source Code\Excel table import\obj\Release\XlsAcadTabGen.csproj.CoreCompileInputs.cache
+C:\Work\ForSync_SW_Git\Source Code\Excel table import\obj\Release\XlsAcadTabGen.csproj.CopyComplete
+C:\Work\ForSync_SW_Git\Source Code\Excel table import\obj\Release\XlsAcadTabGen_Lib.dll
+C:\Work\ForSync_SW_Git\Source Code\Excel table import\obj\Release\XlsAcadTabGen_Lib.pdb

@@ -21,3 +21,14 @@ D:\ForSync_SW\SoftwareDev\Positions_Lib\bin\Release\Positions_Lib.dll
 D:\ForSync_SW\SoftwareDev\Positions_Lib\bin\Release\Positions_Lib.pdb
 D:\ForSync_SW\SoftwareDev\Positions_Lib\obj\Release\Positions_Lib.dll
 D:\ForSync_SW\SoftwareDev\Positions_Lib\obj\Release\Positions_Lib.pdb
+C:\Work\ForSync_SW_Git\Layout positions updater\Positions_Lib.dll.config
+C:\Work\ForSync_SW_Git\Layout positions updater\Positions_Lib.dll
+C:\Work\ForSync_SW_Git\Layout positions updater\Positions_Lib.pdb
+C:\Work\ForSync_SW_Git\Source Code\Layout positions updater\obj\Release\PosUpd.csproj.AssemblyReference.cache
+C:\Work\ForSync_SW_Git\Source Code\Layout positions updater\obj\Release\PosUpd.csproj.ResolveComReference.cache
+C:\Work\ForSync_SW_Git\Source Code\Layout positions updater\obj\Release\Positions_Lib.Pos3Form.resources
+C:\Work\ForSync_SW_Git\Source Code\Layout positions updater\obj\Release\PosUpd.csproj.GenerateResource.cache
+C:\Work\ForSync_SW_Git\Source Code\Layout positions updater\obj\Release\PosUpd.csproj.CoreCompileInputs.cache
+C:\Work\ForSync_SW_Git\Source Code\Layout positions updater\obj\Release\PosUpd.csproj.CopyComplete
+C:\Work\ForSync_SW_Git\Source Code\Layout positions updater\obj\Release\Positions_Lib.dll
+C:\Work\ForSync_SW_Git\Source Code\Layout positions updater\obj\Release\Positions_Lib.pdb

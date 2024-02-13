@@ -17,3 +17,13 @@ D:\ForSync_SW\SoftwareDev\LoopGen_Lib\bin\Release\LoopGen_Lib.dll
 D:\ForSync_SW\SoftwareDev\LoopGen_Lib\bin\Release\LoopGen_Lib.pdb
 D:\ForSync_SW\SoftwareDev\LoopGen_Lib\obj\Release\LoopGen_Lib.dll
 D:\ForSync_SW\SoftwareDev\LoopGen_Lib\obj\Release\LoopGen_Lib.pdb
+C:\Work\ForSync_SW_Git\Drawing generator\LoopGen_Lib.dll.config
+C:\Work\ForSync_SW_Git\Drawing generator\LoopGen_Lib.dll
+C:\Work\ForSync_SW_Git\Drawing generator\LoopGen_Lib.pdb
+C:\Work\ForSync_SW_Git\Source Code\Drawing generator\obj\Release\LoopGenLib.csproj.AssemblyReference.cache
+C:\Work\ForSync_SW_Git\Source Code\Drawing generator\obj\Release\LoopGen_Lib.DrawingGenerator.resources
+C:\Work\ForSync_SW_Git\Source Code\Drawing generator\obj\Release\LoopGenLib.csproj.GenerateResource.cache
+C:\Work\ForSync_SW_Git\Source Code\Drawing generator\obj\Release\LoopGenLib.csproj.CoreCompileInputs.cache
+C:\Work\ForSync_SW_Git\Source Code\Drawing generator\obj\Release\LoopGenLib.csproj.CopyComplete
+C:\Work\ForSync_SW_Git\Source Code\Drawing generator\obj\Release\LoopGen_Lib.dll
+C:\Work\ForSync_SW_Git\Source Code\Drawing generator\obj\Release\LoopGen_Lib.pdb
