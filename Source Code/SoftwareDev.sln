@@ -17,11 +17,11 @@ Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "acad", "C:\Program Files\Au
 		IORedirection = Auto
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopGenLib", "LoopGen_Lib\LoopGenLib.csproj", "{752BC3E5-6508-4FE5-A16C-68EF60C2E928}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopGenLib", "Drawing generator\LoopGenLib.csproj", "{752BC3E5-6508-4FE5-A16C-68EF60C2E928}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosUpd", "Positions_Lib\PosUpd.csproj", "{8140FD9C-C634-4BBC-9664-DEF73D7EE9C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosUpd", "Layout positions updater\PosUpd.csproj", "{8140FD9C-C634-4BBC-9664-DEF73D7EE9C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XlsAcadTabGen", "XlsAcadTabGen_Lib\XlsAcadTabGen.csproj", "{17BE2C6D-7150-419E-98C7-35EF4A181966}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XlsAcadTabGen", "Excel table import\XlsAcadTabGen.csproj", "{17BE2C6D-7150-419E-98C7-35EF4A181966}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
