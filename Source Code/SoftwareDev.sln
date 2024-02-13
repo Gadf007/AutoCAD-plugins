@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "acad", "C:\Program Files\Autodesk\AutoCAD 2021\acad.exe", "{F595286A-7481-4CD7-B428-2ED38AD7D739}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Program Files\Autodesk\AutoCAD 2021\acad.exe
+		RemoteMachine = DESKTOP-8JDEOHF
+		StartingDirectory = C:\Program Files\Autodesk\AutoCAD 2021
+		Environment = По умолчанию
+		LaunchingEngine = fb0d4648-f776-4980-95f8-bb7f36ebc1ee
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopGenLib", "LoopGen_Lib\LoopGenLib.csproj", "{752BC3E5-6508-4FE5-A16C-68EF60C2E928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosUpd", "Positions_Lib\PosUpd.csproj", "{8140FD9C-C634-4BBC-9664-DEF73D7EE9C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XlsAcadTabGen", "XlsAcadTabGen_Lib\XlsAcadTabGen.csproj", "{17BE2C6D-7150-419E-98C7-35EF4A181966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F595286A-7481-4CD7-B428-2ED38AD7D739}.Debug|Any CPU.ActiveCfg = Release|x64
+		{F595286A-7481-4CD7-B428-2ED38AD7D739}.Debug|x64.ActiveCfg = Release|x64
+		{F595286A-7481-4CD7-B428-2ED38AD7D739}.Release|Any CPU.ActiveCfg = Release|x64
+		{F595286A-7481-4CD7-B428-2ED38AD7D739}.Release|x64.ActiveCfg = Release|x64
+		{752BC3E5-6508-4FE5-A16C-68EF60C2E928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752BC3E5-6508-4FE5-A16C-68EF60C2E928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752BC3E5-6508-4FE5-A16C-68EF60C2E928}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{752BC3E5-6508-4FE5-A16C-68EF60C2E928}.Debug|x64.Build.0 = Debug|Any CPU
+		{752BC3E5-6508-4FE5-A16C-68EF60C2E928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752BC3E5-6508-4FE5-A16C-68EF60C2E928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752BC3E5-6508-4FE5-A16C-68EF60C2E928}.Release|x64.ActiveCfg = Release|Any CPU
+		{752BC3E5-6508-4FE5-A16C-68EF60C2E928}.Release|x64.Build.0 = Release|Any CPU
+		{8140FD9C-C634-4BBC-9664-DEF73D7EE9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8140FD9C-C634-4BBC-9664-DEF73D7EE9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8140FD9C-C634-4BBC-9664-DEF73D7EE9C0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8140FD9C-C634-4BBC-9664-DEF73D7EE9C0}.Debug|x64.Build.0 = Debug|Any CPU
+		{8140FD9C-C634-4BBC-9664-DEF73D7EE9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8140FD9C-C634-4BBC-9664-DEF73D7EE9C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8140FD9C-C634-4BBC-9664-DEF73D7EE9C0}.Release|x64.ActiveCfg = Release|Any CPU
+		{8140FD9C-C634-4BBC-9664-DEF73D7EE9C0}.Release|x64.Build.0 = Release|Any CPU
+		{17BE2C6D-7150-419E-98C7-35EF4A181966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BE2C6D-7150-419E-98C7-35EF4A181966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17BE2C6D-7150-419E-98C7-35EF4A181966}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{17BE2C6D-7150-419E-98C7-35EF4A181966}.Debug|x64.Build.0 = Debug|Any CPU
+		{17BE2C6D-7150-419E-98C7-35EF4A181966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17BE2C6D-7150-419E-98C7-35EF4A181966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17BE2C6D-7150-419E-98C7-35EF4A181966}.Release|x64.ActiveCfg = Release|Any CPU
+		{17BE2C6D-7150-419E-98C7-35EF4A181966}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FECB0668-BD65-4A02-A53F-0FCE4C01D976}
+	EndGlobalSection
+EndGlobal

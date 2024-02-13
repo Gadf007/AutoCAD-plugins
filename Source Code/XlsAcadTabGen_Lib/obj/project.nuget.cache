@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a03pKC4m2KLaxYPUKlViQbqblSgmc1iwQZfUBQWh5CkX5SHjOsnmWNx9VDRYGDtuEc96rgw4qBaH6lDJjpRYEg==",
+  "success": true,
+  "projectFilePath": "D:\\ForSync_SW\\SoftwareDev\\XlsAcadTabGen_Lib\\XlsAcadTabGen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicho\\.nuget\\packages\\documentformat.openxml\\3.0.1\\documentformat.openxml.3.0.1.nupkg.sha512",
+    "C:\\Users\\nicho\\.nuget\\packages\\documentformat.openxml.framework\\3.0.1\\documentformat.openxml.framework.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

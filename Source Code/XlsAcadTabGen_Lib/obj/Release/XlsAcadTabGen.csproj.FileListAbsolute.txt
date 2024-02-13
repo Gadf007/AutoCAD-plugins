@@ -1,0 +1,12 @@
+D:\ForSync_SW\SoftwareDev\XlsAcadTabGen_Lib\bin\Release\DocumentFormat.OpenXml.dll
+D:\ForSync_SW\SoftwareDev\XlsAcadTabGen_Lib\bin\Release\DocumentFormat.OpenXml.Framework.dll
+D:\ForSync_SW\SoftwareDev\XlsAcadTabGen_Lib\bin\Release\AdvancedDataGridView.dll
+D:\ForSync_SW\SoftwareDev\XlsAcadTabGen_Lib\obj\Release\XlsAcadTabGen.csproj.AssemblyReference.cache
+D:\ForSync_SW\SoftwareDev\XlsAcadTabGen_Lib\obj\Release\XlsAcadTabGen.csproj.GenerateResource.cache
+D:\ForSync_SW\SoftwareDev\XlsAcadTabGen_Lib\obj\Release\XlsAcadTabGen.csproj.CoreCompileInputs.cache
+D:\ForSync_SW\SoftwareDev\XlsAcadTabGen_Lib\obj\Release\XlsAcadTabGen.csproj.CopyComplete
+D:\ForSync_SW\SoftwareDev\XlsAcadTabGen_Lib\obj\Release\XlsAcadTabGen_Lib.XlsAcadTabGenForm.resources
+D:\ForSync_SW\SoftwareDev\XlsAcadTabGen_Lib\bin\Release\XlsAcadTabGen_Lib.dll
+D:\ForSync_SW\SoftwareDev\XlsAcadTabGen_Lib\bin\Release\XlsAcadTabGen_Lib.pdb
+D:\ForSync_SW\SoftwareDev\XlsAcadTabGen_Lib\obj\Release\XlsAcadTabGen_Lib.dll
+D:\ForSync_SW\SoftwareDev\XlsAcadTabGen_Lib\obj\Release\XlsAcadTabGen_Lib.pdb
