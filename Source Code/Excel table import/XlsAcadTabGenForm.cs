@@ -51,6 +51,13 @@ namespace XlsAcadTabGen_Lib
                 table.SetSize(advancedDataGridView1.Rows.Count - 1, advancedDataGridView1.Columns.Count); //определение размера создаваемой таблицы 
                 table.Cells[0, -1].Style = ""; //изменение стиля первой строки таб. с "Название" на "Данные"
                 table.Cells[1, -1].Style = ""; //изменение стиля второй строки таб. с "Заголовок" на "Данные"
+                table.SetColumnWidth(20); //ширина столбцов 20мм
+      
+                table.BreakOptions = TableBreakOptions.EnableBreaking; //активация разрыва таблицы
+                table.SetBreakHeight(0, 210); //высота разбиения таблицы 210мм. В данном случае задается высота разбиения колонки с индексом 0,
+                                              //прочие колонки, не имеющие данного значения, копируют его с колонки (0)
+                table.SetBreakSpacing(25); //задание расстояния между разорванными частями таблицы
+
 
                 //циклы перебора всех значений пром. таблицы
                 for (int i = 0; i < advancedDataGridView1.Rows.Count - 1; i++)
@@ -132,6 +139,7 @@ namespace XlsAcadTabGen_Lib
 
 
         }//конец обработки нажатия "Выбрать файл"
+
 
         private void загрузитьТаблицуToolStripMenuItem_Click(object sender, EventArgs e)
         {
